@@ -1,0 +1,9 @@
+name = "MatPowerCases"
+uuid = "527ae239-847e-4b4c-8b96-a9bad307f2fd"
+authors = ["Mark Transtrum <mktranstrum@byu.edu>"]
+version = "0.1.0"
+
+[deps]
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
